@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../AcademicPerformanceMVC/AcademicPerformanceMVC.csproj" />
+  <Project Path="AcademicPerformanceAPI.csproj" />
+</Solution>
